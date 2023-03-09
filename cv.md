@@ -34,7 +34,7 @@ I aspire to change my life and profession.
 
 * ### Skills
 
-  * HTML 2
+  * HTML
   * CSS/SASS
   * Git
   * Photoshop
