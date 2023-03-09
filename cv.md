@@ -16,16 +16,6 @@ Location: Minsk, Belarus
 I build a house with my own hands.
 I aspire to change my life and profession.
 
-#### Skills
-
-* HTML
-* CSS
-* Git
-* Photoshop
-* SkechUp
-* Compas 3D
-* Google
-
 #### Code
 
 ```text
@@ -40,18 +30,9 @@ I aspire to change my life and profession.
   </html>
 ```
 
-#### Education
-
- МГВРК, Minsk
-
 ### GitHub: <https://github.com/Yakubovich-siarhei>
 
-#### About Me
-
-I build a house with my own hands.
-I aspire to change my life and profession.
-
-* #### Skills
+* ### Skills
 
   * HTML
   * CSS/SASS
